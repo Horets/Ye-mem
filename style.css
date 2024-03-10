@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+div{
+    height: max-content;
+    width: max-content;
+    background-color: black;
+  }
+  p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+  }
+  h1{
+    color: antiquewhite;
+  }
+  .motivation{
+    border: 5px solid white;
+    width: 200px;
+    height: 200px;
+  }
+  #ye{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    border: 10px solid black;
+    padding: 10px; 
+    text-align: center;
+  }
